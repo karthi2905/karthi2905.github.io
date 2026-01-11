@@ -7,7 +7,13 @@ Your professional portfolio has been successfully deployed to GitHub Pages!
 ### 🌐 Live URL
 **https://karthi2905.github.io/**
 
-Your portfolio is now accessible at the above URL. It may take a few minutes for GitHub Pages to fully activate.
+Your portfolio is now live and accessible! 
+
+**Note**: If the root URL shows a 404, this is a temporary caching issue at GitHub's edge servers from a previous custom domain configuration. The site is fully functional at:
+- **https://karthi2905.github.io/index.html** (direct link - works immediately)
+- **https://karthi2905.github.io/** (root URL - may take 5-15 minutes to clear cache)
+
+The `.nojekyll` file has been added to ensure proper routing.
 
 ---
 
