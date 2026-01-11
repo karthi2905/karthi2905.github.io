@@ -5,15 +5,22 @@
 Your professional portfolio has been successfully deployed to GitHub Pages!
 
 ### 🌐 Live URL
-**https://karthi2905.github.io/**
+**https://karthikeyan-r.me/** ✨
 
-Your portfolio is now live and accessible! 
+Your portfolio is now live at your custom domain!
 
-**Note**: If the root URL shows a 404, this is a temporary caching issue at GitHub's edge servers from a previous custom domain configuration. The site is fully functional at:
-- **https://karthi2905.github.io/index.html** (direct link - works immediately)
-- **https://karthi2905.github.io/** (root URL - may take 5-15 minutes to clear cache)
+**Alternative URLs**:
+- **Custom Domain**: https://karthikeyan-r.me/ (Primary)
+- **WWW Subdomain**: https://www.karthikeyan-r.me/ (Redirects to primary)
+- **GitHub Pages**: https://karthi2905.github.io/ (Redirects to custom domain)
 
-The `.nojekyll` file has been added to ensure proper routing.
+**Features**:
+- ✅ Custom domain configured
+- ✅ HTTPS/SSL enabled
+- ✅ Automatic HTTPS enforcement
+- ✅ Professional URL for your resume
+
+📖 **See [CUSTOM_DOMAIN.md](CUSTOM_DOMAIN.md) for detailed custom domain setup information.**
 
 ---
 
