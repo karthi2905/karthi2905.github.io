@@ -94,6 +94,16 @@
     color: rgba(255, 255, 255, 0.1);
     line-height: 1;
     margin-bottom: 1rem;
+    transition: all var(--transition-base);
+}
+
+.project-card:hover .project-number {
+    color: rgba(255, 255, 255, 0.4);
+    background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    transform: scale(1.05);
 }
 
 .project-content {
