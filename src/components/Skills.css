@@ -16,7 +16,7 @@
 
 .skill-category:hover {
     transform: translateY(-5px);
-    border-color: rgba(16, 185, 129, 0.3);
+    border-color: rgba(255, 255, 255, 0.3);
     box-shadow: var(--shadow-lg);
 }
 
@@ -76,7 +76,7 @@
     background: var(--gradient-primary);
     border-radius: 10px;
     position: relative;
-    box-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
     transition: width 1.5s ease-out;
 }
 

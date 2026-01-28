@@ -50,10 +50,10 @@
 }
 
 .social-link:hover {
-    background: var(--gradient-primary);
-    color: white;
+    background: #ffffff;
+    color: #000000;
     transform: translateY(-3px);
-    box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
     border-color: transparent;
 }
 
@@ -82,10 +82,10 @@
 }
 
 .scroll-top:hover {
-    background: var(--gradient-primary);
-    color: white;
+    background: #ffffff;
+    color: #000000;
     transform: translateY(-3px);
-    box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4);
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
     border-color: transparent;
 }
 
